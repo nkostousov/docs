@@ -8,4 +8,5 @@ Test Documentation
 
 [Bug Reposts Online Store](https://docs.google.com/spreadsheets/d/1NukN1aymhwMI0XR7xmHDqlVp8O3fBoRZi13u4yccLng/edit?usp=sharing)
 
-[Test Run_Registration_and_Autorization_Online_Store.pdf](https://github.com/user-attachments/files/22155026/Test.Run_Registration_and_Autorization_Online_Store.pdf)
+
+[Test Run_Registration_and_Autorization_Online_Store.pdf](https://github.com/user-attachments/files/22212314/Test.Run_Registration_and_Autorization_Online_Store.pdf)
